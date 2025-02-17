@@ -9,13 +9,13 @@ This document provides a step-by-step guide to setting up a **Vagrant Virtual Ma
 ---
 
 ## 📑 Table of Contents
-- [Prerequisites](#prerequisites) 🔑
-- [Architecture](#architecture) 🗺️
-- [Setup & Installation](#setup-and-installation) 🛠️
-- [Vagrant Setup](#vagrant-setup) 🐾
-- [Docker Setup](#docker-setup) 🐳
-- [Cleaning Up Resources](#cleaning-up-resources) 🧹
-- [Conclusion](#conclusion) ✅
+- [Prerequisites](#-prerequisites) 🔑
+- [Architecture](#-architecture) 🗺️
+- [Setup & Installation](#-setup-and-installation) 🛠️
+- [Vagrant Setup](#-vagrant-setup) 🐾
+- [Docker Setup](#-docker-setup) 🐳
+- [Cleaning Up Resources](#-cleaning-up-resources) 🧹
+- [Conclusion](#-conclusion) ✅
 
 ---
 
