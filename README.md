@@ -244,5 +244,3 @@ This project demonstrates how to automate VM provisioning using **Vagrant and Vi
 This project was guided by **Imran Teli**, who provided valuable mentorship throughout the process.
 
 ---
-
-This should cover the entire setup, including the steps for Docker, Vagrant, and Docker Compose configuration. Let me know if you'd like to add anything else!
